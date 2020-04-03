@@ -7,8 +7,11 @@ Modern STEMs offer possibilities to create multidimensional data sets and due to
 Default (alternative) units:
 
 x, y, z:    angstrom
+
 qx, qy:     1/angstrom (mrad)
+
 dE:         eV (rad/s)
+
 n:	    dimensionless
 
 
